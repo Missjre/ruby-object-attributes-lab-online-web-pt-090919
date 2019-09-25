@@ -5,5 +5,8 @@ def class(Dog)
    @name = name
  end
  
- Dog =Dog.new("Rocket")
+ Dog = Dog.new("Rocket")
  Dog.name
+ 
+ 
+ 
