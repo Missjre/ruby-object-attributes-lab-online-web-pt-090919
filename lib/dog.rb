@@ -9,4 +9,11 @@ def class(Dog)
  Dog.name
  
  
+def class(Dog)
+ def initialize(breed)
+   #breed = breed
+ end
  
+ Dog = Dog.new("Pitbull")
+ Dog.breed
+  
